@@ -22,3 +22,4 @@ A console Stone-Paper-Scissors game written in C++ where you play against the co
 
 ## Concepts Used
 Enums, structs, functions, `rand()` and `srand()`, input validation, loops.
+
