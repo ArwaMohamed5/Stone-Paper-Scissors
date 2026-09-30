@@ -1,0 +1,14 @@
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.vcxproj.user
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+Stone-Pa.*/
